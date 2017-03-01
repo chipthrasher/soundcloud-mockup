@@ -2,9 +2,9 @@
 
 This is an exact digital mockup of the Soundcloud profile banner area. It is made in Sketch (http://sketchapp.com)
 
+Included in this repository are a Sketch file (`SoundcloudMockup.sketch`) and the two example images. 
 
-
-### Examples
+## Examples
 
 #### Original:
 
