@@ -1,8 +1,14 @@
 # Soundcloud Mockup
 
-This is an exact digital mockup of the Soundcloud profile banner area. It is made in Sketch (http://sketchapp.com)
+This is an exact digital mockup of the Soundcloud profile banner area. It is made in Sketch (<https://sketchapp.com>)
 
-Included in this repository are a Sketch file (`SoundcloudMockup.sketch`) and the two example images. 
+Included in this repository are a Sketch file (`SoundcloudMockup.sketch`) and the two example images.
+
+## Direct Download
+
+Download link: <https://github.com/chipthrasher/soundcloud-mockup/raw/master/SoundcloudMockup.sketch>
+
+**Note:** Requires "Interstate" font to load text correctly. [Download Interstate (Regular)](https://www.fontyukle.net/en/DownLoad-Interstate-Regular.ttf)
 
 ## Examples
 
